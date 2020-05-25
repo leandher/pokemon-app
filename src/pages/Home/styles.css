@@ -1,0 +1,9 @@
+div.MuiInputBase-root.MuiTablePagination-input.MuiTablePagination-selectRoot,
+div.MuiTablePagination-spacer + p.MuiTypography-root.MuiTablePagination-caption.MuiTypography-body2.MuiTypography-colorInherit {
+  display: none;
+}
+
+.MuiContainer-root.MuiContainer-maxWidthLg {
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
